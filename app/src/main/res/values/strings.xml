@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DataMatrixScanner</string>
+    <string name="manual_input">手動輸入</string>
 </resources>
